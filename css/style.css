@@ -497,6 +497,15 @@ border-radius: 4px;}
 }
 
 /*------FOOTER------*/
+.footer-block {
+    display: flex;
+    align-items: baseline;
+}
+
+.contacts-footer {
+    margin-right: 70px;
+}
+
 .nav-contacts-footer:hover,
 .nav-contacts-footer:focus,
 .current {
